@@ -8,7 +8,7 @@ I am a student that strives to learn in all aspects of the technical field and c
 
 My programming experience includes JavaScript, C#, Java, and small amounts of python. A majority of the time I am working as a front end developer, working with HTML and CSS as well. You can find recently completed projects above!
 
-### Skills
+### Skills :)
 
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
